@@ -328,3 +328,19 @@ In addition, if you've never contributed to an open source project before, pleas
 - [Proposing changes to your work with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
 
 [top :arrow_up:](#table-of-contents)
+
+## Meeting
+1. To run the custom meeting status for the LCD display, please run the meeting.py  file
+```sh
+python meeting.py
+```
+2. The user will be prompted to input a value
+
+3. The values are as follows
+   1 = "Available"
+   2 = "In a Meeting"
+   3 = "Making Pi"
+   314 = "I Like Pi!!!"
+   504 = "May the Force be with You"
+   ** all other values will dim the screen and show time and date
+
