@@ -316,19 +316,6 @@ Use the following procedure to run any LCD Python script as a (systemd) service:
    systemctl status rpi-lcd.service
    ```
 
-[top :arrow_up:](#table-of-contents)
-
-## Contributions
-
-Thank you for you interest in learning how to contribute to this repository.  We welcome contributions from novices to experts alike, so do not be afraid to give it a try if you are new to `git` and GitHub.  First, however, take a few minutes to read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to learn how to open **Issues** and the various sorts of **Pull Requests (PRs)** that are currently accepted.
-
-In addition, if you've never contributed to an open source project before, please take a look at the following resources:
-
-- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
-- [Proposing changes to your work with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
-
-[top :arrow_up:](#table-of-contents)
-
 ## Meeting
 1. To run the custom meeting status for the LCD display, please run the meeting.py  file
 ```sh
@@ -343,4 +330,19 @@ python meeting.py
    314 = "I Like Pi!!!"
    504 = "May the Force be with You"
    ** all other values will dim the screen and show time and date
+
+[top :arrow_up:](#table-of-contents)
+
+## Contributions
+
+Thank you for you interest in learning how to contribute to this repository.  We welcome contributions from novices to experts alike, so do not be afraid to give it a try if you are new to `git` and GitHub.  First, however, take a few minutes to read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to learn how to open **Issues** and the various sorts of **Pull Requests (PRs)** that are currently accepted.
+
+In addition, if you've never contributed to an open source project before, please take a look at the following resources:
+
+- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
+- [Proposing changes to your work with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests)
+
+[top :arrow_up:](#table-of-contents)
+
+
 
